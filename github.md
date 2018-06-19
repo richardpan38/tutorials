@@ -13,6 +13,6 @@
 
 ### Existing Repo
 
-1. git clone https://github.com/(Insert Username)/(Insert Repo Name)
+1. git clone https://<span></span>github.com/(Insert Username)/(Insert Repo Name)
 
 
